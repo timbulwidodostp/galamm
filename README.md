@@ -1,6 +1,8 @@
 # galamm
 Generalized additive mixed models with latent variables Use galamm With (In) R Software
 
+https://www.youtube.com/watch?v=kd6zacXY4b8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
